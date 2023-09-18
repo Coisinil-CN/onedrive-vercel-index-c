@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'User',
-      link: 'https://onedrivemanager.sucralose.cc',
+      name: 'user',
+      link: 'https://onedrivemanager.sucralose.cc/?login=admin',
     },
   ],
 
