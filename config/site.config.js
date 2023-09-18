@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Home',
-      link: 'https://home.xylitol.cc',
+      name: 'User',
+      link: 'https://onedrivemanager.sucralose.cc',
     },
   ],
 
