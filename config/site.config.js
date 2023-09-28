@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'Github',
-      link: 'https://onedrivemanager.sucralose.cc/?login=admin',
+      link: 'https://https://github.com/XyIitoI/',
     },
   ],
 
