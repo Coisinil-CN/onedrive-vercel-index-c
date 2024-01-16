@@ -52,13 +52,13 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: '🔍 Retrieval',
-      link: 'https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fedu%2Exylitol%2Ecc%3A443%2Fapi%2Fraw%2F%3Fpath%3D%2F%25F0%259F%2593%2595%2520E%2DBook%2520Retrieval%2D20240113%2Exlsx/'
-    },
-    {
       name: 'Github',
       link: 'https://github.com/Camelitol/'
     },
+    {
+      name: '🔍 Retrieval',
+      link: 'https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fedu%2Exylitol%2Ecc%3A443%2Fapi%2Fraw%2F%3Fpath%3D%2F%25F0%259F%2593%2595%2520E%2DBook%2520Retrieval%2D20240113%2Exlsx/'
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
