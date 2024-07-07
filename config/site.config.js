@@ -38,11 +38,11 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made by Camelitol. PS: 感谢呆呆的大力支持🌹',
+    'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made by 团子. PS: 感谢呆呆的大力支持🌹',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/📕 E-Book', '/📄 Resource', '/👤 Personal'],
+  protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: "",
@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: '🔍 Retrieval',
+      name: '🔍 检索表',
       link: 'https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fedu%2Exylitol%2Ecc%3A443%2Fapi%2Fraw%2F%3Fpath%3D%2F%25F0%259F%2593%2595%2520E%2DBook%2520Retrieval%2520%2D%252020240423%2Exlsx/'
     }
   ],
