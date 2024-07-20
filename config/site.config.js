@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: '🔍 检索表',
-      link: 'https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fedu%2Exylitol%2Ecc%3A443%2Fapi%2Fraw%2F%3Fpath%3D%2F%25F0%259F%2593%2595%2520E%2DBook%2520Retrieval%2520%2D%252020240423%2Exlsx/'
+      link: 'https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fedu%2Ecoisinil%2Ecom%3A443%2Fapi%2Fraw%2F%3Fpath%3D%2F%25F0%259F%2594%258D%2520%25E6%25A3%2580%25E7%25B4%25A2%25E8%25A1%25A8%2520%2D%2520202407%2Exlsx/'
     }
   ],
 
